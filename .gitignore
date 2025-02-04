@@ -1,0 +1,5 @@
+*.jpg
+*.png
+*.gif
+
+git remote set-url origin https://github.com/K3nK0/gallerie.git
